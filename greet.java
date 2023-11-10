@@ -1,4 +1,5 @@
 public class Greet {
     public static void main(String[] args){
-        System.out.println("hello")
+        String greeting = "Good Morning";
+        System.out.println(greeting);
         System.out.println("How are you?"); // ADDED
